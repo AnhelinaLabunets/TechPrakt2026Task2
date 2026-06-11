@@ -1,9 +1,10 @@
 body {
+    background: #d2faff;
     margin: 0;
     padding: 0;
 }
 header {
-    background: #333;
+    background: #4e7880;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -27,6 +28,6 @@ main {
 footer {
     text-align: center;
     padding: 1rem;
-    background: #333;
+    background: #4e7880;
     color: white;
 }
